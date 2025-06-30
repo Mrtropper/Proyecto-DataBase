@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modulo-seguridadBD", "modulo-seguridadBD\modulo-seguridadBD.csproj", "{F505AE7F-1229-480F-A741-94FB51F074E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{FF69FC53-D1D6-4ED8-A267-C529546524B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{C2061B82-FBC4-4118-A515-847F36DFAC7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F505AE7F-1229-480F-A741-94FB51F074E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F505AE7F-1229-480F-A741-94FB51F074E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F505AE7F-1229-480F-A741-94FB51F074E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F505AE7F-1229-480F-A741-94FB51F074E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF69FC53-D1D6-4ED8-A267-C529546524B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF69FC53-D1D6-4ED8-A267-C529546524B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF69FC53-D1D6-4ED8-A267-C529546524B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF69FC53-D1D6-4ED8-A267-C529546524B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2061B82-FBC4-4118-A515-847F36DFAC7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2061B82-FBC4-4118-A515-847F36DFAC7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2061B82-FBC4-4118-A515-847F36DFAC7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2061B82-FBC4-4118-A515-847F36DFAC7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

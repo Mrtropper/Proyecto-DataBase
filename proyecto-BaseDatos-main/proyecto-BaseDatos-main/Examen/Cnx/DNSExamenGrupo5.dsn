@@ -1,0 +1,8 @@
+[ODBC]
+DRIVER=SQL Server
+UID=sa
+DATABASE=GestionCCVC
+WSID=JOSUE
+APP=Sistema operativo Microsoft® Windows®
+SERVER=Josue\SQLD
+Description=Base de examen

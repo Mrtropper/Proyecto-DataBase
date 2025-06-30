@@ -1,0 +1,61 @@
+# --- Ignorar carpetas específicas del proyecto (si aún se quiere controlar así)
+# Puedes eliminar esta sección si todo lo siguiente ya lo cubre
+/Examen/**/.vs
+/Examen/**/bin/
+/Examen/**/obj/
+ 
+# --- Archivos de compilación
+[Bb]in/
+[Oo]bj/
+*.dll
+*.exe
+*.pdb
+*.cache
+**/Debug/
+**/Release/
+
+# --- Visual Studio y configuración de usuario
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.csproj.user
+
+# --- Archivos temporales y logs
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.db
+*.dbmdl
+*.VC.db
+*.VC.VC.opendb
+*.orig
+
+# --- Archivos innecesarios del sistema operativo
+*.DS_Store
+Thumbs.db
+
+# --- Archivos de publicación
+publish/
+
+# --- Paquetes y auto-generados
+packages/
+*.nupkg
+*.snupkg
+Generated_Code/
+.idea/
+*.dotCover
+
+# --- Configuración sensible
+secrets.json
+appsettings.Development.json
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.sln.docstates

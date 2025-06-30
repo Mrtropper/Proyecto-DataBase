@@ -1,0 +1,54 @@
+/Examen/BLL/.vs
+/Examen/BLL/bin/Debug
+/Examen/BLL/obj
+/Examen/DAL/.vs
+/Examen/DAL/bin/Debug
+/Examen/DAL/obj
+/Examen/ExamenGrupo5/.vs
+/Examen/ExamenGrupo5/bin/Debug
+/Examen/ExamenGrupo5/obj
+/Examen/Querys/.vs
+
+
+# Archivos de compilación
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de configuración local
+*.log
+*.dbmdl
+*.bak
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+
+# Archivos de publicación
+publish/
+
+# Otros comunes en .NET
+*.swp
+*.DS_Store
+Thumbs.db
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+
+# Ignorar todos los Debug
+**/Debug/
+
+# Opcional si usas paquetes
+packages/
